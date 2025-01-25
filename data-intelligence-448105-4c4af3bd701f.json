@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "data-intelligence-448105",
+  "private_key_id": "4c4af3bd701fb3eeee070dc23344b1a4277aba73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDprJsrFu9FfPKE\n63BoWRNtNpPNG3tzGroxMOFJ3l+6M9hwov3l7K/KCwDhxysu9eAzQ1Z43brCklLG\nx9aSxBtMMR2scx8UqSMxPnTxi0ZnDV5Sxq5ZDTKdqxIyN8s3IexEzT0wP44zzWSV\nYRduC7rR0hAUCq3+gsGN/xqu/HsGA/7fF19ve3eXwDEq1xYjGSsr+aYXS/n4A66M\nHdZSMUQ6E/uOr3ldyhHvleCSnSn1lbpoRwHbax4HBymzr5ktCjSjdauvX9a8KttO\nCf4XRP+qg8R4wrXjoqQ3zniTeQaLDaoV11KyJJo3kdYNmASj3T6iVjCj6YxL7kVu\n1NZtf8enAgMBAAECggEAXXf391PssJBql6VvaKXcwe43T69DAYc62+tP6lLDWsFb\nPa7MvXgf1sLw/t7ClL2wCQFR6PXUOvj5mF6eI0XDH4Zz9qNz1rlTBOMVNvr9VcJA\nrP6hBajkSrH/jMvJgwuULO8lnxOFB46MQb48931EpKIQYVvmPixCTNCydTUz5nLV\n6hYXNx09QF4W41lDDhlZDsSpoKbODeYnw/Y135mpYP4qiHisQajwDT5kZJ3VRuJc\nZiy/pxhF0g8AknpJeuaOdvOH9tWmFAPr/l11quYjYq4cAk3/o2OqnlMt+6Ux7Ryy\nFt/GM3Iq6nwiSPrGInjidBv8ivxqK5O/PN1fZNsMOQKBgQD9UJO+/Qh4/61+IKRX\nv27hEKSelc3BeBegCBuaM0hH3QYGBIsuoLJul1QDn8hTX1NUT9DkM5OW4a0IxDw6\nDD1eDIsVplxm2kOwYgiyKgQjckYum7V3eSYL+1bKLT1uThvK6iXa3mrbWijdsiWr\nzTvrmTCzkWVnBjIWkI599VdhKQKBgQDsJrr3I5ovZEIl2r2qPohRf4jhdz6mTA4V\nUjWX+4suwd5/hWnIGeNP3eKfcx6lyAOBcthofakBZyeB6Gf6/q3HtOlRP2qZ//Oj\nYyuMDctQX5TPTjXdRNyen3uW4DGH0bFr+uGbV6Px+zqQ+kOLWTcmEzSg7UzJr5hJ\nXbgx9h/sTwKBgQDjNYYAFfemiDZ2XhLqfdOXXhU6BUYTlYMjUIJpkjvv8Wi4txSc\nExlYprV9trC5T1Rv2FOWjEiCWhOZPGKE8nuMwxVxqtFQk8+JArWoEJW7sYEPxyxC\naFDfCGa1W1Sxfq/hFpozsbII49qp12OAsMphLPuI5Q4eFWmR4cFda1Uf2QKBgQC6\n/MvsZudugS+Tc8ncpNkh1x9WkCouWWiJX2gKaOZDZsU8KjKhfEYudl48rVXmJSMJ\nfBt5WY7aCokQ5yp2ZvTJfimE6PcK681KYXsY0c9cW+Kj56TlCOK8Q0IELI9roRGg\nk63SaCnrsGcmZtPW4hS19F0m09+Kj5zA8xGnleCfJwKBgGC4AtGcAotsGIPGcr0s\n6yf7t+1Uq5z36yrw+2U9vSRlIAPdKTahrbHkNZ5ScCMeVC5+77E+z37akoOuarBF\n5sX0zrVE8WoycEMqs7hmYtje8OmpAFx54kRLM37NBX6Kb3ttxKXF6w72dyJBbvjs\nk6fGyhLR6PrzyIrfK/BMRe+F\n-----END PRIVATE KEY-----\n",
+  "client_email": "cendroldata@data-intelligence-448105.iam.gserviceaccount.com",
+  "client_id": "108541989285761440283",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cendroldata%40data-intelligence-448105.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
